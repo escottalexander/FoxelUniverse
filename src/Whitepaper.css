@@ -1,0 +1,90 @@
+@font-face {
+    font-family: 'Jaldi-Bold';
+    src:url('./assets/Jaldi-Bold.ttf.woff') format('woff'),
+        url('./assets/Jaldi-Bold.ttf.svg#Jaldi-Bold') format('svg'),
+        url('./assets/Jaldi-Bold.ttf.eot'),
+        url('./assets/Jaldi-Bold.ttf.eot?#iefix') format('embedded-opentype'); 
+    font-weight: normal;
+    font-style: normal;
+  }
+  
+  h1,h2,h3,h4,h5,h6 {
+    font-family: 'Jaldi-Bold';
+  }
+
+.Whitepaper{
+margin: 0 10%;
+}
+.Whitepaper h1 {
+text-align:center;
+}
+
+.types ul{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+.types ul li {
+    font-size:16px;
+    font-weight: 600;
+    padding-left:0;
+    margin:10px;
+}
+.types ul li::before, .types ul li::after {
+    content:"–"
+}
+.half-width{
+    display:inline-block;
+    width:34%;
+    vertical-align: text-top;
+}
+
+.aqua-foxel{
+    float:left;
+width:30%;
+height:min-content;
+}
+
+.fire-foxel{
+    align-self: center;
+    min-width: 200px;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+.dark-foxel{
+    float:right;
+    height:min-content;
+    width:30%;
+}
+
+@media screen and (max-width: 600px) {
+    .half-width{
+        width:50%;
+    }
+    .aqua-foxel{
+        display: block;
+    margin-right: auto;
+    margin-left: auto;
+    float:none;
+    align-self: center;
+    min-width:100px;
+    width:50%;
+    height:min-content;
+    }
+    
+    .dark-foxel{
+        display: block;
+        float:none;
+    margin-right: auto;
+    margin-left: auto;
+        align-self: center;
+        min-width:120px;
+        height:min-content;
+        width:50%;
+    }
+}
