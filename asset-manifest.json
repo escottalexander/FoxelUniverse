@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/FoxelUniverse/static/css/main.bea0f131.chunk.css",
+    "main.js": "/FoxelUniverse/static/js/main.2cfce47a.chunk.js",
+    "main.js.map": "/FoxelUniverse/static/js/main.2cfce47a.chunk.js.map",
+    "runtime-main.js": "/FoxelUniverse/static/js/runtime-main.0e3bb884.js",
+    "runtime-main.js.map": "/FoxelUniverse/static/js/runtime-main.0e3bb884.js.map",
+    "static/js/2.7ef8b87e.chunk.js": "/FoxelUniverse/static/js/2.7ef8b87e.chunk.js",
+    "static/js/2.7ef8b87e.chunk.js.map": "/FoxelUniverse/static/js/2.7ef8b87e.chunk.js.map",
+    "static/js/3.7fc338e9.chunk.js": "/FoxelUniverse/static/js/3.7fc338e9.chunk.js",
+    "static/js/3.7fc338e9.chunk.js.map": "/FoxelUniverse/static/js/3.7fc338e9.chunk.js.map",
+    "index.html": "/FoxelUniverse/index.html",
+    "static/css/main.bea0f131.chunk.css.map": "/FoxelUniverse/static/css/main.bea0f131.chunk.css.map",
+    "static/js/2.7ef8b87e.chunk.js.LICENSE.txt": "/FoxelUniverse/static/js/2.7ef8b87e.chunk.js.LICENSE.txt",
+    "static/media/CroppedAqua.979532d7.jpg": "/FoxelUniverse/static/media/CroppedAqua.979532d7.jpg",
+    "static/media/CroppedDark.818f8753.jpg": "/FoxelUniverse/static/media/CroppedDark.818f8753.jpg",
+    "static/media/CroppedFirePheonix.e113dcf9.jpg": "/FoxelUniverse/static/media/CroppedFirePheonix.e113dcf9.jpg",
+    "static/media/FoxelUniverseHeader.1246868f.jpg": "/FoxelUniverse/static/media/FoxelUniverseHeader.1246868f.jpg",
+    "static/media/Whitepaper.css": "/FoxelUniverse/static/media/Jaldi-Bold.ttf.f4a9f0f1.eot"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e3bb884.js",
+    "static/js/2.7ef8b87e.chunk.js",
+    "static/css/main.bea0f131.chunk.css",
+    "static/js/main.2cfce47a.chunk.js"
+  ]
+}
